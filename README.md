@@ -1,16 +1,96 @@
-## Hi there 👋
+# 👋 Hi, I’m Benedicta Otakpor 
 
-<!--
-**BenedictaOtakpor/Benedictaotakpor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Power BI & Business Intelligence Analyst**  
+📊 Turning raw data into clear, actionable insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a detail-oriented data analyst with a strong focus on **Power BI, business intelligence, and data storytelling**.  
+I specialize in transforming complex datasets into **clear, interactive dashboards** that support data-driven decision-making.
+
+My work combines:
+- Strong **data modeling & DAX fundamentals**
+- Thoughtful **dashboard design**
+- A deep understanding of **business questions and KPIs**
+
+This GitHub showcases real world, end-to-end BI projects from raw data to executive ready insights.
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 📊 Business Intelligence & Analytics
+- **Power BI** (DAX, Power Query, Data Modeling)
+- Tableau (foundational)
+- Excel (advanced formulas, PivotTables)
+
+### 🗄️ Data & Databases
+- Microsoft SQL Server   
+- MySQL 
+
+### 🧩 Supporting Tools
+- Git & GitHub  
+- Google Sheets  
+- Microsoft Office (PowerPoint, Excel, Power automate)  
+
+---
+
+## 📁 Featured Power BI Projects
+
+### 🔹 Sales & Profitability Dashboard
+**Focus:** Revenue, Profit, Margin trends  
+- Dynamic KPIs & slicers  
+- Drill-down by product, region, and time  
+- Executive summary page for stakeholders  
+
+📂 `powerbi-sales-profitability`
+
+---
+
+### 🔹 Unpacking Workplace Dynamics 
+**Focus:** Human Resourecs 
+- Job titles, Employee age, and Gender analysis  
+- Clean, business-friendly design
+- [Dashboard](https://medium.com/@otakporawele/unpacking-workplace-dynamics-374cd3621e6c)
+
+
+📂 `powerbi-regional-performance`
+
+---
+
+### 🔹 Vacation and Travel
+**Focus:** Monthly trend & vistors drivers  
+- Top/Bottom N analysis  
+- Countries contribution  
+- [Dashboard](https://medium.com/@otakporawele/united-states-international-travel-data-analysis-fad2858969fb)
+
+---
+
+## 📈 What I Focus On
+
+✔ Answering **business questions**, not just building visuals  
+✔ Clean, readable dashboards for **executives & managers**  
+✔ Proper **data modeling** (not quick hacks)  
+✔ Performance-friendly DAX  
+✔ Clear documentation and explanations  
+
+---
+
+## 🌱 Currently Improving
+
+- Advanced DAX patterns  
+- Power BI performance optimization  
+- Power Automate + BI integration  
+- Storytelling for executive audiences  
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/benedicta-otakpor](https://www.linkedin.com/in/benedicta-otakpor)
+- 📧 **Email:** [email address](otakporbenedicta@gmail.com)
+
+Thanks for stopping by! ⭐  
+If you find my work useful, feel free to star ⭐ the repositories.
