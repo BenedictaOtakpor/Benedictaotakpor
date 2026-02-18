@@ -43,9 +43,8 @@ This GitHub showcases real world, end-to-end BI projects from raw data to execut
 **Focus:** Revenue, Profit, Margin trends  
 - Dynamic KPIs & slicers  
 - Drill-down by product, region, and time  
-- Executive summary page for stakeholders  
-
-📂 `powerbi-sales-profitability`
+- Executive summary page for stakeholders
+- [Dashboard](https://app.powerbi.com/groups/me/reports/bfd1c09e-d19a-47eb-8c2c-20e0bef12d22/56600b40ed3883f78b42?experience=power-bi)
 
 ---
 
@@ -54,9 +53,6 @@ This GitHub showcases real world, end-to-end BI projects from raw data to execut
 - Job titles, Employee age, and Gender analysis  
 - Clean, business-friendly design
 - [Dashboard](https://medium.com/@otakporawele/unpacking-workplace-dynamics-374cd3621e6c)
-
-
-📂 `powerbi-regional-performance`
 
 ---
 
