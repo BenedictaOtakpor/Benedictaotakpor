@@ -63,7 +63,7 @@ This GitHub showcases real world, end-to-end BI projects from raw data to execut
 **Focus:** Human Resourecs 
 - Job titles, Employee age, and Gender analysis  
 - Clean, business-friendly design
-- [Dashboard](https://medium.com/@otakporawele/unpacking-workplace-dynamics-374cd3621e6c)
+- [Dashboard](https://github.com/BenedictaOtakpor/Unpacking-Workplace-Dynamics/blob/main/README.md)
 
 ---
 
