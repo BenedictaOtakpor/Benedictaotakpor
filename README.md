@@ -55,7 +55,7 @@ This GitHub showcases real world, end-to-end BI projects from raw data to execut
 - Facility type breakdown (Hospitals, Ambulatory Care, Nursing & Residential Care)  
 - Top and bottom province/city comparisons using dynamic slicers  
 - Executive-level insights highlighting national vs provincial facility distribution
-- [Dashboard](https://app.powerbi.com/groups/me/reports/27c8abca-596a-46d6-94ea-60658d9af0c6/551d36d0105d88b2b061?experience=power-bi&bookmarkGuid=0a4a7b9786e75b2c97cf)
+- [Dashboard](https://github.com/BenedictaOtakpor/Canadian-Health-Care-Analysis/blob/main/README.md)
 
 ---
 
