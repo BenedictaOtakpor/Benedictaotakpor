@@ -44,7 +44,7 @@ This GitHub showcases real world, end-to-end BI projects from raw data to execut
 - Dynamic KPIs & slicers  
 - Drill-down by product, region, and time  
 - Executive summary page for stakeholders
-- [Dashboard](https://app.powerbi.com/groups/me/reports/bfd1c09e-d19a-47eb-8c2c-20e0bef12d22/56600b40ed3883f78b42?experience=power-bi)
+- [Dashboard](https://github.com/BenedictaOtakpor/Pharmacy-Sales-and-Profitability-Analysis)
 
 ---
 
